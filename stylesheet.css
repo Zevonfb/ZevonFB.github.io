@@ -1,0 +1,112 @@
+.h1 {
+	font-family: Palatino;
+	font-size: 50px;
+	color: #c1ffc8;
+}
+
+.p1 {
+	font-family: Garamond;
+	font-size: 23px;
+	color: whitesmoke;
+}
+
+.offwhite {
+	color: whitesmoke;
+}
+
+.img1 {
+  	width: 1920px;
+  	height: 60px;
+  	display: block;
+  	position: relative;
+  	content: "";
+  	background: url(http://a-1fenceproducts.com/wp-content/uploads/2014/10/pic-sitemap1.jpg);
+  	opacity: 0.32;
+  	top: 0;
+  	left: 0;
+  	bottom: 0;
+  	right: 0;
+  	position: absolute;
+  	z-index: -1;
+  	margin-top: 156px;
+
+}
+
+#ondayheading1 {
+	font-size: 40px;
+	font-family: Verdana;
+	font-style: italic;
+	text-align: center;
+	color: #c1ffc8;
+	padding: 18px;
+	margin-bottom: -10px;
+}
+
+#listedtext1 {
+
+}
+
+.table1 {
+	border: solid;
+	size: 5px;
+	width: 650px;
+	color: #c1ffc8;
+	height: 400px;
+}
+
+#basictabletext1 {
+	text-align: center;
+	text-decoration: firebrick;
+}
+
+.pagebreak {
+	border-top: solid;
+	border-color: pink;
+}
+
+#offdayheading1 {
+		font-size: 40px;
+	font-family: Verdana;
+	font-style: italic;
+	text-align: center;
+	color: #f7be6f;
+	padding-top: 0px;
+	margin-top: -18px;
+	margin-bottom: 10px;
+}
+
+#row-title1 {
+	text-transform: uppercase;
+	font: bold;
+}
+
+.ondayheading2 {
+	font-size: 40px;
+	font-family: Verdana;
+	font-style: italic;
+	text-align: center;
+	color: #c1ffc8;
+	padding-top: 0px;
+	margin-top: -18px;
+	margin-bottom: 10px;
+}
+
+.basic-text1 {
+	font-family: Garamond;
+	color: whitesmoke;
+	font-size: 40px;
+}
+
+#medium1 {
+	width: 900px;
+}
+
+.map1 {
+    padding: 10px;
+    margin: 10px;
+}
+
+.left1 {
+	float: left;
+	width: 600px;
+}
