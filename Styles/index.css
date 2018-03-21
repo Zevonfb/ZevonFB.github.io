@@ -94,7 +94,9 @@
 .basic-text1 {
 	font-family: Garamond;
 	color: whitesmoke;
-	font-size: 40px;
+	font-size: 5.9vw;
+	font-size: 3.0bh;
+	font-size: 2vmin;
 }
 
 #medium1 {
