@@ -98,7 +98,7 @@
 	font-size: 15.1.0vh;
 	font-size: 2vmin;
 	text-align: center;
-	float: center;
+	float: left;
 }
 
 #medium1 {
@@ -111,7 +111,7 @@
 }
 
 .left1 {
-	float: left;
+	float: center;
 	width: 600px;
 }
 
