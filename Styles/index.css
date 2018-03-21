@@ -93,7 +93,7 @@
 
 .basic-text1 {
 	font-family: Garamond;
-	color: whitesmoke;
+	color: red;
 }
 
 #medium1 {
@@ -106,7 +106,7 @@
 }
 
 .left1 {
-	float: center;
+	float: middle;
 	width: 600px;
 }
 
