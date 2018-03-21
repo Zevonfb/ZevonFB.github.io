@@ -94,9 +94,10 @@
 .basic-text1 {
 	font-family: Garamond;
 	color: whitesmoke;
-	font-size: 19.9vw;
-	font-size: 12.3.0vh;
+	font-size: 50.5vw;
+	font-size: 15.1.0vh;
 	font-size: 2vmin;
+	text-align: center;
 }
 
 #medium1 {
@@ -112,3 +113,4 @@
 	float: left;
 	width: 600px;
 }
+
