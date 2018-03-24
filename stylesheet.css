@@ -2,7 +2,16 @@
 
 .alpha-heading-text-1 {
 	color: whitesmoke;
-	size: 50px;
+	font-size: 70px;
+	text-align: center;
+	margin-top: -20px;
+	margin-bottom: -30px;
+}
+
+.alpha-basic-text-1 {
+	color: whitesmoke;
+	font-size: 28px;
+	font-family: Garamond;
 }
 
 /* This is where all the old unsorted and untidy css is */
