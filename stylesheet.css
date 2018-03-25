@@ -1,21 +1,74 @@
 /* This is where the organised stuff is */
+
+.picturebar1 {
+    width: 50vw;
+    height: auto;
+}
+
+#basic-table-subhead1 {
+    font-size: 36px;
+}
+
+#basictabletext1 {
+    text-align: center;
+    font-size: 22px;
+    font-family: Verdana;
+}
+
+#green2 {
+    color: whitesmoke;
+    background-color: #70e000;
+}
+
+#blue {
+    color: whitesmoke;
+    background-color: skyblue;
+}
+
+.top-border-1 {
+    border-top: dotted;
+    border-color: cyan;
+    border-width: 5px;
+}
+
+.offdayheading {
+    color: tomato;
+    font-size: 2vw;
+    text-align: center;
+    font-family: Courier;
+}
+
+.table1 {
+    border: solid;
+    size: 5px;
+    width: 30vw;
+    color: powderblue;
+    height: 40vh;
+}
+
+
 #left-1 {
     float: left;
+    width: 50vw;
+    margin: 2px;
 }
 
 #right-1 {
     float: right;
+    width: 50vw;
+    margin: 2px;
+    position: relative;
 }
 
 .alpha-heading-text-1 {
-	color: #83c483;
+	color: powderblue;
 	text-align: center;
     font-size: 4vw;
     margin: 1vh auto;
 }
 
 .alphabasictext1 {
-	color: whitesmoke;
+	color: darkslategray;
 	font-size: 2vw;
 	font-family: Garamond, sans-serif;
 }
@@ -26,9 +79,10 @@
 }
 
 .ondayheading {
-    color: #83c483;
+    color: powderblue;
     font-family: Courier;
     text-align: center;
+    font-size: 2vw;
 }
 
 /* Buttons */
@@ -154,21 +208,8 @@
 
 }
 
-.table1 {
-	border: solid;
-	size: 5px;
-	width: 30vw;
-	color: #c1ffc8;
-	height: 40vh;
-}
-
-#basictabletext1 {
-	text-align: center;
-	text-decoration: firebrick;
-}
-
 .pagebreak {
-	border-top: solid;
+	border: solid;
 	border-color: tomato;
 }
 
