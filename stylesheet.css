@@ -1,22 +1,27 @@
 /* This is where the organised stuff is */
 
+
 .alpha-heading-text-1 {
 	color: #83c483;
-	font-size: 70px;
 	text-align: center;
-	margin-top: -20px;
-	margin-bottom: -30px;
+    font-size: 4vw;
+    margin: 1vh auto;
 }
 
 .alphabasictext1 {
 	color: whitesmoke;
-	font-size: 30px;
+	font-size: 2vw;
 	font-family: Garamond, sans-serif;
 }
 
 #red {
     color: whitesmoke;
     background-color: tomato;
+}
+
+.ondayheading {
+    color: #83c483;
+    font-family: Courier;
 }
 
 /* Buttons */
@@ -157,7 +162,7 @@
 
 .pagebreak {
 	border-top: solid;
-	border-color: pink;
+	border-color: tomato;
 }
 
 #offdayheading1 {
