@@ -1,7 +1,7 @@
 /* This is where the organised stuff is */
 
 .alpha-heading-text-1 {
-	color: whitesmoke;
+	color: #2fd067;
 	font-size: 70px;
 	text-align: center;
 	margin-top: -20px;
@@ -10,9 +10,11 @@
 
 .alphabasictext1 {
 	color: whitesmoke;
-	font-size: 40px;
-	font-family: Garamond;
+	font-size: 30px;
+	font-family: Garamond, sans-serif;
 }
+
+
 
 /* This is where all the old unsorted and untidy css is */
 
@@ -137,7 +139,7 @@
 }
 
 .oldpage-link1 {
-	float: right;
+	float: left;
 }
 
 .hey1 {
