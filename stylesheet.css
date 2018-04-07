@@ -1,5 +1,13 @@
 /* This is where the organised stuff is */
 
+.test1 {
+    text-align: center;
+    font-size: 8vw;
+    color: red;
+}
+
+.test2 {}
+
 .picturebar1 {
     width: 50vw;
     height: auto;
