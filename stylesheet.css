@@ -1,12 +1,19 @@
 /* This is where the organised stuff is */
 
-.test1 {
+.header1{
     text-align: center;
-    font-size: 8vw;
-    color: red;
+    font-size: 2vw;
+    color: #60c46b;
 }
 
-.test2 {}
+.box1 {
+    border: solid;
+    border-color: black;
+    width: 8vw;
+    text-align: center;
+    background-color: black;
+    margin: auto;
+}
 
 .picturebar1 {
     width: 50vw;
