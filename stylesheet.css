@@ -1,15 +1,31 @@
 /* This is where the organised stuff is */
 
+
+.linebreak1 {
+    border-bottom: dashed;
+    color: lightblue;
+    width: auto;
+}
+
+/* blacktext1 is for large headings. blacktext2 is for subheadings. blacktext3 is for paragraphs */
+
+.blacktext3 {
+        font-family: Courier;
+    font-size: 2vw;
+    color: black;
+    text-align: center;
+}
+
 .blacktext2 {
     font-family: Courier;
-    font-size: 2vw;
+    font-size: 3vw;
     color: black;
     text-align: center;
 }
 
 .blacktext1 {
     font-family: Courier;
-    font-size: 3vw;
+    font-size: 4vw;
     color: black;
     text-align: center;
 }
