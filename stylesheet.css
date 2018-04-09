@@ -1,9 +1,45 @@
 /* This is where the organised stuff is */
 
+.blacktext2 {
+    font-family: Courier;
+    font-size: 2vw;
+    color: black;
+    text-align: center;
+}
+
+.blacktext1 {
+    font-family: Courier;
+    font-size: 3vw;
+    color: black;
+    text-align: center;
+}
+
+.blackbox-simpletext {
+    font-size: 2vw;
+    border: solid;
+    border-color: black;
+    background-color: black;
+    color: white;
+
+}
+
+.simpletext1 {
+    color: white;
+    font-size: 3vh;
+}
+
 .header1{
     text-align: center;
     font-size: 2vw;
-    color: #60c46b;
+    color: white;
+}
+
+.basicblackbox1 {
+    border: solid;
+    border-color: black;
+    text-align: center;
+    background-color: black;
+    margin: auto;
 }
 
 .box1 {
@@ -101,6 +137,12 @@
     font-size: 2vw;
 }
 
+
+
+
+
+
+
 /* Buttons */
 
 .rounded-button-1 {
@@ -118,7 +160,6 @@
 }
 
 .rounded-button-2 {
-    background-color: orange;
     border: none;
     color: white;
     padding: 20px;
@@ -173,6 +214,14 @@
     border-radius: 50%;
 
 }
+
+
+
+
+
+
+
+
 
 /* This is where all the old unsorted and untidy css is */
 
